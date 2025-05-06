@@ -7,8 +7,9 @@
  - Странно работает перенос строк - при переносе строк в субтитрах (\n) создаётся новая ячейка
 
 ### Import-файл (.srt, открытый в AegisSub)
-
+![Изначаниый файл сабов](https://github.com/Nepoymi/srt-xlsx/blob/main/images/input%20srt.png)
 ### Export-файл (.xslx, открытый в Microsoft Excel)
+![Старый файл таблицы](https://github.com/Nepoymi/srt-xlsx/blob/main/images/output%20old%20xslx.png)
 
 ## Моя модификаия и дополнение
 
@@ -19,17 +20,19 @@
  - Нормальный перенос строк - при переносе строк в субтитрах в таблице тоже переносятся строки
 
 ### Import-файл (.srt, открытый в AegisSub)
-
+![Изначаниый файл сабов](https://github.com/Nepoymi/srt-xlsx/blob/main/images/input%20srt.png)
 ### Export-файл (.xslx, открытый в Microsoft Excel)
+![Новый файл таблицы](https://github.com/Nepoymi/srt-xlsx/blob/main/images/output%20new%20xslx.png)
 
 Также я сделал обратный скрипт - из такой таблицы .xlsx в субтитры .srt
 
 ### Import-файл (.xslx, открытый в Microsoft Excel)
-
+![Новый файл таблицы](https://github.com/Nepoymi/srt-xlsx/blob/main/images/output%20new%20xslx.png)
 ### Export-файл (.srt, открытый в AegisSub)
+![Конечный файл сабов](https://github.com/Nepoymi/srt-xlsx/blob/main/images/output%20srt.png)
 
 Как видите, субтитры отлично перенеслись туда-обратно без каких-либо изменений
 
-### Изначальный файл (.srt, открытый в AegisSub)
-
-### Конечный файл (.srt, открытый в AegisSub)
+### Изначальный и конечный файлы (.srt, открытый в AegisSub)
+![Изначаниый файл сабов](https://github.com/Nepoymi/srt-xlsx/blob/main/images/input%20srt.png)
+![Конечный файл сабов](https://github.com/Nepoymi/srt-xlsx/blob/main/images/output%20srt.png)
