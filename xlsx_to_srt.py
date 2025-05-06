@@ -1,3 +1,4 @@
+# Перед выполнением - pip install openpyxl
 from openpyxl import load_workbook
 from tkinter import Tk, filedialog
 
