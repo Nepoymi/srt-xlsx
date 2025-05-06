@@ -33,6 +33,6 @@
 
 Как видите, субтитры отлично перенеслись туда-обратно без каких-либо изменений
 
-### Изначальный и конечный файлы (.srt, открытый в AegisSub)
+### Изначальный и конечный файлы (.srt, открытыев AegisSub)
 ![Изначаниый файл сабов](https://github.com/Nepoymi/srt-xlsx/blob/main/images/input%20srt.png)
 ![Конечный файл сабов](https://github.com/Nepoymi/srt-xlsx/blob/main/images/output%20srt.png)
