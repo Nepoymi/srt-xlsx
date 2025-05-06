@@ -1,4 +1,11 @@
-# Перед выполнением - pip install openpyxl
+"""
+Перед выполнением:
+Установить python (Для windows - https://www.python.org/downloads/)
+Установить pip (Для windows - в cmd выполнить "python -m ensurepip --default-pip"
+Установить модуль openpyxl (pip install openpyxl)
+
+Для Linux - дополнительно читать README.md
+"""
 from openpyxl import load_workbook
 from tkinter import Tk, filedialog
 
