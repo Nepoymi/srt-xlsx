@@ -1,4 +1,11 @@
-# Перед выполнением - pip install xlsxwriter
+"""
+Перед выполнением:
+Установить python (Для windows - https://www.python.org/downloads/)
+Установить pip (Для windows - в cmd выполнить "python -m ensurepip --default-pip"
+Установить модуль xlsxwriter (pip install xlsxwriter)
+
+Для Linux - дополнительно читать README.md
+"""
 import xlsxwriter
 import re
 import logging
