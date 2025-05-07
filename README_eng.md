@@ -1,4 +1,4 @@
-[[RU](https://github.com/Nepoymi/srt-xlsx/blob/main/README.md)/EN]
+# [[RU](https://github.com/Nepoymi/srt-xlsx/blob/main/README.md)/EN]
 
 # srt-xlsx
 There is already [file for converting .srt to .xlsx](https://gist.github.com/b-adams/ee9fd90f3d85bb2a2da1).
