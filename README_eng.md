@@ -1,5 +1,7 @@
 # [[RU](https://github.com/Nepoymi/srt-xlsx/blob/main/README.md)/EN]
 
+# [УСТАНОВКА(ru)](https://github.com/Nepoymi/srt-xlsx/blob/main/Install_rus.md) / [INSTALLATION(en)](https://github.com/Nepoymi/srt-xlsx/blob/main/Install_eng.md)
+
 # srt-xlsx
 There is already [file for converting .srt to .xlsx](https://gist.github.com/b-adams/ee9fd90f3d85bb2a2da1).
 However, using it, I found a number of disadvantages:
