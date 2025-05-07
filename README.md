@@ -1,3 +1,5 @@
+# [RU/[EN](https://github.com/Nepoymi/srt-xlsx/blob/main/README_eng.md)]
+
 # srt-xlsx
 На просторах интернета уже есть [файл для преобразования .srt в .xlsx](https://gist.github.com/b-adams/ee9fd90f3d85bb2a2da1).
 Однако я, спользуя его, нашёл ряд недостатков:
