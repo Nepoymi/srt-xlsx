@@ -20,11 +20,15 @@ Next, in cmd:
 
 `sudo apt-get update`.
 
-``sudo apt-get install python3 python3-tk python3-pip``
+`sudo apt-get install python3 python3-tk python3-pip`
+
+`pip install xlsxwriter openpyxl`
 
 ### Fedora:
 
 `sudo dnf install python3 python3-tkinter python3-pip`
+
+`pip install xlsxwriter openpyxl`
 
 ### Arch/Manjaro:
 
@@ -45,8 +49,6 @@ I won't explain how to install git on windup and all linux, you'll figure it out
 `git clone https://github.com/Nepoymi/srt-xlsx.git`
 
 `cd srt-xslx`
-
-
 
 `python srt_to_xslx.py`
 
