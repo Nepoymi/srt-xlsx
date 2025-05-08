@@ -22,17 +22,25 @@ https://www.python.org/downloads/
 
 `sudo apt-get install python3 python3-tk python3-pip`
 
+`pip install xlsxwriter openpyxl`
+
 ### Fedora:
 
 `sudo dnf install python3 python3-tkinter python3-pip`
+
+`pip install xlsxwriter openpyxl`
 
 ### Arch/Manjaro:
 
 `sudo pacman -S python tk python-pip`
 
+`pip install xlsxwriter openpyxl`
+
 ### openSUSE:
 
 `sudo zypper install python3 python3-tk python3-pip`
+
+`pip install xlsxwriter openpyxl`
 
 # Установка скрипта:
 
